@@ -1,0 +1,1 @@
+# globul-detection
